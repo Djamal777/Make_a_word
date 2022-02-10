@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726213008758",
+    "project_id": "make-a-word",
+    "storage_bucket": "make-a-word.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726213008758:android:b157e4d1fa9b998dcf6e57",
+        "android_client_info": {
+          "package_name": "com.example.makeaword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726213008758-b4eknruog0fttr4torm5s8m4n2irfmqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makeaword",
+            "certificate_hash": "b12efb0cd2e8940427bdbdbd128e736f4f29ea8c"
+          }
+        },
+        {
+          "client_id": "726213008758-801mrcldchp8t3ca6s5r4vh1jla6qc40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ0r-m9aHbqsFUI0oQz-HDzWlIgoAIids"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726213008758-801mrcldchp8t3ca6s5r4vh1jla6qc40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

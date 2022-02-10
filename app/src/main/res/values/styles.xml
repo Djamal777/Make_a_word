@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="butStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">#f1b574</item>
+        <item name="android:shape">rectangle</item>
+    </style>
+</resources>
